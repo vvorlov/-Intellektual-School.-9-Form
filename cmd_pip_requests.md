@@ -12,7 +12,7 @@
 + `del` – удалить файл
 
 # Pip
-Файл для установки: https://bootstrap.pypa.io/get-pip.py. Pip установиться в `../Python**/Scripts/`
+Файл для установки: https://bootstrap.pypa.io/get-pip.py. Pip установится в `../Python**/Scripts/`
 
 Установить пакет: `pip install package_name`
 
